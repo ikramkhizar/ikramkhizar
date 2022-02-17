@@ -7,7 +7,7 @@ I am a full stack web developer. My tech stack includes:
 
 ### Some fun facts about me 😆
 
-- 🔭 I’m currently working on a variety of projects including a laravel API & VueJS SPA
+- 🔭 I’m currently working on a variety of projects mainly focus on Vue JS & Laravel
 - 💬 Ask me about my tech stack
 - 📫 How to reach me: [email me](mailto:ikramkhizer@gmail.com)
 
