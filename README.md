@@ -10,6 +10,7 @@ I am a full stack web developer. My tech stack includes:
 - 🔭 I’m currently working on a variety of projects mainly focus on Vue JS & Laravel
 - 💬 Ask me about my tech stack
 - 📫 How to reach me: [email me](mailto:ikramkhizer@gmail.com)
+- ⚡ Check out my portfolio: http://ikramkhizar.github.io/
 
 <!--
 **ikramkhizar/ikramkhizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
