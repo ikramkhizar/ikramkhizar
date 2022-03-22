@@ -1,4 +1,4 @@
-### Hi there, I am [Ikram Khizer](http://ikramkhizar.github.io/) 👋
+### Hi there, I am [Ikram Khizer](https://ikramkhizer.netlify.app/) 👋
 
 I am a full stack web developer. My tech stack includes:
 - PHP & PHP Frameworks - Laravel, Codeigniter
