@@ -9,7 +9,7 @@ I am a full stack developer. My tech stack includes:
 
 - 🔭 I’m currently working on a variety of projects mainly focus on Vue JS & Laravel
 - 💬 Ask me about my tech stack
-- 📫 [How to reach me](https://ikramkhizer.netlify.app/)
+- 📫 [How to reach me](https://ikramkhizer.com/)
 
 <!--
 **ikramkhizar/ikramkhizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
