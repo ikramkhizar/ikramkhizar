@@ -1,15 +1,15 @@
 ### Hi there, I am [Ikram Khizer](https://ikramkhizer.netlify.app/) 👋
 
-I am a full stack developer. My tech stack includes:
+I am a full-stack developer. My tech stack includes:
 - PHP & PHP Frameworks - Laravel, Codeigniter
+- JavaScript Frameworks - VueJS, Nuxt.js, ReactJS, Next.js
 - HTML/CSS/SASS
-- JavaScript & VueJS
 
 ### Some fun facts about me 😆
 
-- 🔭 I’m currently working on a variety of projects mainly focus on Vue JS & Laravel
+- 🔭 I’m currently working on a variety of projects mainly focused on Vue JS & React & Laravel
 - 💬 Ask me about my tech stack
-- 📫 [How to reach me](https://ikramkhizer.com/)
+- 📫 [How to reach me](https://ikramkhizer.netlify.app/)
 
 <!--
 **ikramkhizar/ikramkhizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
